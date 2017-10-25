@@ -1,0 +1,11 @@
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\bin\Debug\testeAPIGoogle.exe.config
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\bin\Debug\testeAPIGoogle.exe
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\bin\Debug\testeAPIGoogle.pdb
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\obj\Debug\testeAPIGoogle.csprojResolveAssemblyReference.cache
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\obj\Debug\testeAPIGoogle.Principal.resources
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\obj\Debug\testeAPIGoogle.Properties.Resources.resources
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\obj\Debug\testeAPIGoogle.csproj.GenerateResource.Cache
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\obj\Debug\testeAPIGoogle.exe
+C:\Users\vitor\Google Drive\Projetos C#\testeAPIGoogle\testeAPIGoogle\obj\Debug\testeAPIGoogle.pdb
